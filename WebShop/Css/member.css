@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container{ }		
+	/*action content*/
+	#action_area{ float:right; width:687px;}
+	.action_type{ margin-bottom:25px;}
+	.action_type_h{ margin-top:40px; padding-left:20px; height:40px; background:url(../Images/action_h.gif) repeat-x; font:12px/30px 宋体;}
+	
+	/*登录页和注册页面*/
+	/*操作页面说明*/
+	p.state{ margin:10px 0 0 20px; line-height:30px;}
+	
+	.member_form{ margin:30px 0 0 20px; color:#747476;}
+	.member_form p{ margin:10px 0;}
+	.member_form label{ float:left; width:80px; text-align:right; margin-right:10px; line-height:22px; color:#000;}
+	.member_form span{ color:#f00; margin:0 3px;}
+	
+	 p.form_sub{ padding-left:90px; margin-top:16px;}
+	
+	.opt_input{ border:1px solid #666; width:180px; height:20px; line-height:20px; margin-right:5px;}
+	.opt_tel{ border:1px solid #666; width:60px; height:20px; line-height:20px; margin-right:5px;}
+	.opt_sub{ height:22px; background:url(../Images/opt_sub.gif) repeat-x 1px 1px; text-align:center; font:12px/14px Tahoma; border:1px solid #0e79a5; margin-right:10px; padding:0 6px;}
+	
+	
+	
+	
+	/*我的购物车*/
+	.backet{ height:98px; background:url(../Images/basker.gif) no-repeat;}
+	.backet .imp_link{ font:14px/26px 宋体; text-align:right; padding-top:30px;}
+	.backet .mark{ font:12px/24px 宋体; margin:70px 0 0 16px;}
+	
+	.data_table{ margin:0 auto; border-collapse:separate;}
+	.data_table td, .data_table th{ padding:6px 10px 5px; font:14px/20px 宋体;}
+	.data_table thead th{ background:#E2E2E2;}
+	.data_table tfoot td{ background:#E2E2E2;}
+	
+	.data_table tbody td{ text-align:center;}
+	.data_table tbody td.name{ text-align:left;}
+	
+	
+	
+	
+	.notice{ font:14px/24px 宋体;}
+	
+	.basker_ok_link{}
+	.basker_ok_link a{ margin-right:16px; font:14px/30px 宋体;}
+	
+	.basker_sub{ width:83px; height:28px; background:url(../Images/basker_sub.gif) no-repeat; border:none;}
+	.basker_ok{ width:133px; height:43px; background:url(../Images/basker_ok.gif) no-repeat 0 0; border:none; margin-right:10px; }
+	
+	
+	/*订单确认页面*/
+	.order_p_head{ padding:32px 0 0 14px;}	
+	
+	.order_p_title{ height:26px; padding-left:20px; background:url(../Images/order_p_title.gif) no-repeat; font:600 14px/26px 宋体;}
+	
+	.order_p_main{ border:1px solid #4991CF; border-top:none;}
+	.order_p_main dl{ margin:0 30px; padding:10px 0; background:url(../Images/dotted.gif) repeat-x 0 bottom;}
+	.order_p_main dt{ font:600 14px/36px 宋体; margin-top:10px;}
+	.order_p_main dd{ padding-left:30px;}
+	
+
+	dl.enddl{ background:none;}
+	dl.nopadding dt{ position:relative;}
+	dl.nopadding dt a{ position:absolute; right:45px; top:0; font:600 12px/20px 宋体;}
+	dl.nopadding dd{ padding-left:0;}
+	
+	.order_table{ margin:0 auto; border:1px solid #666;}
+	.order_table th{ background:#F6EE77; padding:6px 10px 5px; font-weight:normal;}
+	.order_table td{ padding:3px 4px 2px 16px; text-align:center; border:1px groove #ddd;}
+	.order_table td.name{ text-align:left;}
+	
+	.count_table{ margin:0 auto;}
+	.count_table th{ background:#F6EE77; padding:6px 10px 5px; font-weight:normal;}
+	.count_table td{ padding:8px 4px 7px 16px; text-align:center; background:#E7E8E3;}
+	.count_table td.name{ text-align:left;}
+	.order_count{ font:600 14px/30px 宋体;}
+	
+	.order_p_btn{ text-align:right; margin:20px 50px 80px;}
+	.order_p_sub{ width:134px; height:33px; background:url(../Images/order_p_sub.gif) no-repeat; border:none;}
+	
+	
+
+

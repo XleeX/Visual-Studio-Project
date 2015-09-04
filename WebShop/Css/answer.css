@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{padding:0;margin:0}
+img{border:0}
+a{color:#1a66b3; text-decoration:none}
+a:hover{color:#1a66b3; text-decoration:underline}
+.empty_clear_left{ clear:left; height:0px; overflow:hidden}
+.empty_clear_right{clear:right; height:0px; overflow:hidden}
+.empty_box{ clear:both; height:0px; overflow:hidden}
+
+.comm_answer .comm_list{ border:1px solid #b6c6d3; padding:10px 20px 10px; line-height:20px; margin-bottom:11px; word-break:break-all; word-wrap:break-word;}
+.comm_answer h3{ font:600 12px/24px 宋体; background:url(../images/dotted.gif) repeat-x 0 bottom; padding-bottom:10px; margin-bottom:10px; position:relative;}
+.comm_answer h3 span{ position:absolute; top:0; right:100px; font: 12px/20px 宋体;}
+.comm_answer h3 a{ margin:2px 0 0 6px;}
+.comm_answer h3 a:hover{ color:#404040;}
+
+
+
+.comm_answer input{vertical-align: middle; font-size:12px}
+.comm_answer em{ color:#cc3300; font-style:normal}
+.comm_answer .a_red28b{	color:#cc3300; font-size:28px; font-family: Arial;font-weight:bold}
+.comm_answer .pd{ padding: 0 2px; }
+.comm_answer .t_gray{ color:#878787; }
+.comm_answer .t_gray a{ color:#878787; text-decoration:none}
+.comm_answer .t_gray a:hover{ color:#878787; text-decoration:underline}
+.comm_answer .price_old{ text-decoration:line-through}
+
+/*顾客评论与商品问答样式*/
+.comm_answer .red_bold{color:#cc3300; font-weight:bold}
+.comm_answer .red_bold_2{color:#fe7100; font-weight:bold}
+.comm_answer .red_nostrong{color:#cc3300}
+.comm_answer .yellow{color:#b18850;width:100px; }
+.comm_answer .yellow1{clear:right; width:90px; color:#b18850}
+.comm_answer .text_bold{ font-weight:bold}
+.comm_answer{ width:100%; padding:15px 0; line-height: normal;color:#404040}/*2009-7-16 qsy修改*/
+.comm_answer .gray_n{ color:#666; font-weight:normal}
+.comm_answer .font12{ font-size:12px}
+
+/*评论 head*/
+.comm_answer .total_comm{ padding-bottom:10px; width:690px; overflow:hidden;}
+.comm_answer .comm_title{ padding:7px 0 0 8px; height:20px; background-color:#d5e5f4; border-top:solid 1px #88aac6; }
+.comm_answer .comm_title h2{ font-size:14px; font-weight: bolder;}
+
+.comm_answer .red_norm{ color:#c30; font-weight:normal}
+.comm_answer .look_comm{ font-size:12px; margin-left:7px; font-weight:normal;}
+.comm_answer .total_body{ background-color: #fff8e5; border-top:1px solid #d2cab5; height:50px; padding-top:13px; border-bottom:1px solid #d2cab5; margin-top:1px; line-height: normal }
+.comm_answer .people_average{ float:left; width:160px; padding-left:35px; height:50px}
+.comm_answer .average_left{ width:148px; height:50px; float:left; font-size:14px}
+.comm_answer .average_left p{ height:12px; overflow:hidden; padding-left:18px; font-size:12px}
+.comm_answer .people_average img{ margin-right:2px; }
+.comm_answer .span_jt{ display:block; float:left; width:12px; height:12px; padding-top:12px; overflow:hidden}
+.comm_answer .people_heart{ float:left; padding-left:40px; height:18px; padding-top:12px}
+.comm_answer .people_read{ float:left; padding-left:40px; height:15px; padding-top:12px}
+
+.comm_answer .write_comm{ float:right; margin:7px 15px 0 0; width:120px; height:40px; text-align:center}
+.comm_answer .red_space{color:#c30; margin:0 2px}
+
+
+.comm_answer .button_down1{ width:15px; height:16px; background:url(../images/button_down1.gif) no-repeat; border:0; cursor:pointer}
+.comm_answer .button_down2{ width:15px; height:16px; background:url(../images/button_down2.gif) no-repeat; border:0; cursor:pointer}
+
+.comm_answer .comm_list_bg{ margin:1px; background-color:#e8f4ff; }

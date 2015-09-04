@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container{ }		
+	/*main content*/
+	#content{ float:left; width:500px; margin-left:10px;}
+		#magic{ margin-left:5px; width:480px; border:1px solid #999; height:202px;}
+		/*广告位2*/
+		#a_b_02{ margin:10px 0 10px 0px;}
+		#a_b_02 a{ margin:0 2px;}
+		/*推荐图书*/
+		#comment_book{ height:100%; overflow:hidden;}
+		#comment_book li{ float:left; margin:0 5px 12px; text-align:center; display:inline;}
+		#comment_book li img{ display:block; border:1px solid #D4D7D6; padding:2px; margin-bottom:4px; height:120px;}
+		
+	/*side content*/
+	#sidebar{ float:right; width:196px;}
+		#notice{ height:100px; overflow:hidden; background:url(../Images/notice.gif) no-repeat; padding:20px 6px 0 14px; line-height:22px;}
+		/*订单查询*/
+		#order_find{ margin-top:10px;}
+		#order_find label{ font:600 12px/20px Arial; color:#0F81B5;}
+		.order_key{ width:70px; height:18px; line-height:18px; }
+		.order_sub{ width:62px; height:22px; font:12px Tahoma; border:1px outset; border-color:#333 #333 #999 #999;}
+		
+		/*在线客服*/
+		.service{ margin-top:10px; background:#E2F1F9; text-align:center; padding:3px 6px 5px;}
+		.service p{ margin:5px 0;}
+		
+		.sidedt{ margin-top:14px; height:294px; background:url(../Images/sideArea.gif) no-repeat 0 29px; overflow:hidden;}
+		.sidedt h1{ height:29px; font:600 14px/28px Arial; color:#fff; text-align:center; background:url(../Images/sideTitle.gif) no-repeat;}
+		.sidedt ul{ margin:10px 0 0 15px;}
+		.laster h1{ background-position:0 -29px;}

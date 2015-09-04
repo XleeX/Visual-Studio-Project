@@ -1,0 +1,18 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Message</title>
+</head>
+<body>
+    <div>
+        注册成功
+        @Html.ActionLink("跳转到首页", "home", "main", new { id = 5, order = "type" }, new { Style = "color:red;" })
+    </div>
+</body>
+</html>

@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta name="viewport" content="width=device-width" />
+    <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
+</head>
+<body>
+    <div>
+        <div id ="Menu">
+            <ul>
+                <li><a href ='/home/unserinfo'>用户信息</a></li>
+                <li><a href ="bookinfo/index">书籍信息</a></li>
+            </ul>
+        </div>
+
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+</body>
+</html>

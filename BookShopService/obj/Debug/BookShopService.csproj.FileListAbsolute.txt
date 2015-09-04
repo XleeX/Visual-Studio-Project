@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2013\Projects\WebShop\BookShopService\bin\Debug\BookShopService.dll
+D:\Documents\Visual Studio 2013\Projects\WebShop\BookShopService\bin\Debug\BookShopService.pdb
+D:\Documents\Visual Studio 2013\Projects\WebShop\BookShopService\bin\Debug\BookShopEntity.dll
+D:\Documents\Visual Studio 2013\Projects\WebShop\BookShopService\bin\Debug\BookShopEntity.pdb
+D:\Documents\Visual Studio 2013\Projects\WebShop\BookShopService\obj\Debug\BookShopService.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\WebShop\BookShopService\obj\Debug\BookShopService.dll
+D:\Documents\Visual Studio 2013\Projects\WebShop\BookShopService\obj\Debug\BookShopService.pdb
+C:\Users\wsbbl_000\Desktop\Projects\Projects\WebShop\BookShopService\bin\Debug\BookShopService.dll
+C:\Users\wsbbl_000\Desktop\Projects\Projects\WebShop\BookShopService\bin\Debug\BookShopService.pdb
+C:\Users\wsbbl_000\Desktop\Projects\Projects\WebShop\BookShopService\bin\Debug\BookShopEntity.dll
+C:\Users\wsbbl_000\Desktop\Projects\Projects\WebShop\BookShopService\bin\Debug\BookShopEntity.pdb
+C:\Users\wsbbl_000\Desktop\Projects\Projects\WebShop\BookShopService\obj\Debug\BookShopService.csprojResolveAssemblyReference.cache
+C:\Users\wsbbl_000\Desktop\Projects\Projects\WebShop\BookShopService\obj\Debug\BookShopService.dll
+C:\Users\wsbbl_000\Desktop\Projects\Projects\WebShop\BookShopService\obj\Debug\BookShopService.pdb
